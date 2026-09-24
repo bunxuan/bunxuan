@@ -19,15 +19,6 @@ This project serves as a minimal testbed for understanding how discrete symbolic
 
 [Project Repository](https://github.com/Hikarli/symbol-emergence-world-models)
 
-## Selected Repositories
-
-- `symbol-emergence-1d` — world models, latent geometry, and symbol boundaries
-- `jp-context-notes` — context-sensitive meaning in Japanese
-- `xv6-notes` — operating system structure
-- `bustub-notes` — database system internals
-- `cs-systems-notes` — systems fundamentals
-- `jrpg-battle-design` — emergent mechanics in game systems
-
 ## Future Directions
 
 - Extend the experiment to 2D environments and GridWorlds.
