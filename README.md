@@ -1,5 +1,3 @@
-# Bun
-
 ## Exploring how structure and meaning emerge from continuous dynamics.
 
 ## Research Focus
@@ -8,7 +6,7 @@ I study how continuous sensory dynamics give rise to structured latent represent
 
 ## Representative Project
 
-**symbol-emergence-1d**  
+**symbol-emergence**  
 A compact world-model study of symbol emergence in a 1D bouncing-ball environment.
 
 - Latent dynamics analysis in a controlled setting
@@ -19,10 +17,6 @@ This project serves as a minimal testbed for understanding how discrete symbolic
 
 [Project Repository](https://github.com/Hikarli/symbol-emergence-world-models)
 
-## Future Directions
 
-- Extend the experiment to 2D environments and GridWorlds.
-- Study multimodal world models and richer latent structure.
-- Investigate hierarchical symbolic organization and interaction.
 
-These directions aim to build a systematic research pipeline from minimal environments to richer symbolic structures.
+
